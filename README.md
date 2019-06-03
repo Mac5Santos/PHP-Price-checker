@@ -1,1 +1,1 @@
-# PHP Price checker
+This is a price checker tool made with php
